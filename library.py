@@ -1,4 +1,3 @@
-# Define the menu of the restaurant using a dictionary
 menu = {
     'Pizza': 40,
     'Pasta': 50,
